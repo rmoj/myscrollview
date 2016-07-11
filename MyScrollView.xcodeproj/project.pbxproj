@@ -104,14 +104,8 @@
 		A7CC3D291D33BC9B0031B89F /* MyScrollView */ = {
 			isa = PBXGroup;
 			children = (
-				A7CC3D2D1D33BC9B0031B89F /* AppDelegate.h */,
-				A7CC3D2E1D33BC9B0031B89F /* AppDelegate.m */,
 				A7CC3D301D33BC9B0031B89F /* ViewController.h */,
 				A7CC3D311D33BC9B0031B89F /* ViewController.m */,
-				A7CC3D331D33BC9B0031B89F /* Main.storyboard */,
-				A7CC3D361D33BC9B0031B89F /* Assets.xcassets */,
-				A7CC3D381D33BC9B0031B89F /* LaunchScreen.storyboard */,
-				A7CC3D3B1D33BC9B0031B89F /* Info.plist */,
 				A7CC3D5D1D33C7D60031B89F /* MyScrollView.h */,
 				A7CC3D5E1D33C7D60031B89F /* MyScrollView.m */,
 				A7CC3D2A1D33BC9B0031B89F /* Supporting Files */,
@@ -122,6 +116,12 @@
 		A7CC3D2A1D33BC9B0031B89F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A7CC3D361D33BC9B0031B89F /* Assets.xcassets */,
+				A7CC3D3B1D33BC9B0031B89F /* Info.plist */,
+				A7CC3D381D33BC9B0031B89F /* LaunchScreen.storyboard */,
+				A7CC3D331D33BC9B0031B89F /* Main.storyboard */,
+				A7CC3D2D1D33BC9B0031B89F /* AppDelegate.h */,
+				A7CC3D2E1D33BC9B0031B89F /* AppDelegate.m */,
 				A7CC3D2B1D33BC9B0031B89F /* main.m */,
 			);
 			name = "Supporting Files";
