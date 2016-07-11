@@ -15,6 +15,7 @@
 		A7CC3D3A1D33BC9B0031B89F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7CC3D381D33BC9B0031B89F /* LaunchScreen.storyboard */; };
 		A7CC3D451D33BC9B0031B89F /* MyScrollViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CC3D441D33BC9B0031B89F /* MyScrollViewTests.m */; };
 		A7CC3D501D33BC9B0031B89F /* MyScrollViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CC3D4F1D33BC9B0031B89F /* MyScrollViewUITests.m */; };
+		A7CC3D5F1D33C7D60031B89F /* MyScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CC3D5E1D33C7D60031B89F /* MyScrollView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		A7CC3D4B1D33BC9B0031B89F /* MyScrollViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyScrollViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7CC3D4F1D33BC9B0031B89F /* MyScrollViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyScrollViewUITests.m; sourceTree = "<group>"; };
 		A7CC3D511D33BC9B0031B89F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7CC3D5D1D33C7D60031B89F /* MyScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyScrollView.h; sourceTree = "<group>"; };
+		A7CC3D5E1D33C7D60031B89F /* MyScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyScrollView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +112,8 @@
 				A7CC3D361D33BC9B0031B89F /* Assets.xcassets */,
 				A7CC3D381D33BC9B0031B89F /* LaunchScreen.storyboard */,
 				A7CC3D3B1D33BC9B0031B89F /* Info.plist */,
+				A7CC3D5D1D33C7D60031B89F /* MyScrollView.h */,
+				A7CC3D5E1D33C7D60031B89F /* MyScrollView.m */,
 				A7CC3D2A1D33BC9B0031B89F /* Supporting Files */,
 			);
 			path = MyScrollView;
@@ -271,6 +276,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7CC3D321D33BC9B0031B89F /* ViewController.m in Sources */,
+				A7CC3D5F1D33C7D60031B89F /* MyScrollView.m in Sources */,
 				A7CC3D2F1D33BC9B0031B89F /* AppDelegate.m in Sources */,
 				A7CC3D2C1D33BC9B0031B89F /* main.m in Sources */,
 			);
